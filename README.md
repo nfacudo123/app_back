@@ -1,6 +1,8 @@
 # 🏨 Sistema de Gestión Hotelera - Backend Laravel
 Este proyecto corresponde al backend del sistema de gestión hotelera, desarrollado en **Laravel y PostgreSQL**, que permite registrar hoteles, asignar tipos de habitaciones con restricciones específicas, y consumir la API desde un frontend React.
 
+Desplegado en: https://api.examplereact.lat
+
 ## 📦 Requisitos
 
 - PHP 8.1 o superior
@@ -13,8 +15,8 @@ Este proyecto corresponde al backend del sistema de gestión hotelera, desarroll
 
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/tuusuario/backend-hotel.git
-cd backend-hotel
+git clone https://github.com/nfacudo123/app_back.git
+cd app_back
 
 # 2. Instala dependencias
 composer install
